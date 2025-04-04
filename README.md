@@ -1,11 +1,9 @@
-# ArquiteturaDeComp_Uniruy
+# Consultoria 
 
-# Título do Trabalho
 
-## Nome do Autor
-**Disciplina:** Nome da disciplina  
-**Professor(a):** Nome do professor(a)  
-**Data:** Data de entrega
+**Disciplina:** Arquitetura de Computadores 
+**Professor(a):** Heleno Cardoso
+**Data:** 06/06/2025
 
 ---
 
