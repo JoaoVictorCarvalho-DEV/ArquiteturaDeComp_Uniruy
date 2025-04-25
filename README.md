@@ -4,12 +4,11 @@ Trabalho desenvolvido para a disciplina **Arquitetura de Computadores**, ministr
 
 ## 👥 Integrantes do Grupo
 
-- João Víctor  
-- Guilherme  
-- Luiz  
+- João Víctor Miranda Carvalho
+- Guilherme Miguel
+- Luiz Fernando 
 - Eric  
 
-*(Sobrenomes serão adicionados posteriormente)*
 
 ## 🏢 Instituição Atendida
 
