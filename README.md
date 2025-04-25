@@ -4,11 +4,11 @@ Trabalho desenvolvido para a disciplina **Arquitetura de Computadores**, ministr
 
 ## 👥 Integrantes do Grupo
 
-- João Víctor Miranda Carvalho
+- Eric 
 - Guilherme Miguel
+- João Víctor Miranda Carvalho - Desenvolvedor do Repositório
 - Luiz Fernando 
-- Eric  
-
+ 
 
 ## 🏢 Instituição Atendida
 
