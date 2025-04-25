@@ -4,7 +4,7 @@ Trabalho desenvolvido para a disciplina **Arquitetura de Computadores**, ministr
 
 ## 👥 Integrantes do Grupo
 
-- Eric - Líder da equipe
+- Eric Assis dos Santos Silva - Líder da equipe
 - Guilherme Miguel
 - João Víctor Miranda Carvalho - Desenvolvedor do Repositório
 - Luiz Fernando 
