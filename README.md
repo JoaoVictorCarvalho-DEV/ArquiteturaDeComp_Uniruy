@@ -8,7 +8,7 @@ Trabalho desenvolvido para a disciplina **Arquitetura de Computadores**, ministr
 - Guilherme Miguel
 - João Víctor Miranda Carvalho - Desenvolvedor do Repositório
 - Luiz Fernando Ferreira Barbosa
-- - Vitor ...
+- Vitor ...
  
 
 ## 🏢 Instituição Atendida
