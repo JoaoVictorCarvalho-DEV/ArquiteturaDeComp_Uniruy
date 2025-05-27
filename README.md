@@ -7,8 +7,8 @@ Trabalho desenvolvido para a disciplina **Arquitetura de Computadores**, ministr
 - Eric Assis dos Santos Silva - Líder da equipe
 - Guilherme Miguel
 - João Víctor Miranda Carvalho - Desenvolvedor do Repositório
-- Vitor ...
 - Luiz Fernando Ferreira Barbosa
+- - Vitor ...
  
 
 ## 🏢 Instituição Atendida
@@ -33,6 +33,7 @@ Realizar uma **consultoria técnica** com foco na **sugestão de melhorias para 
 
 - 🎧 **Podcast:** _[link será adicionado em breve]_  
 - 🧠 **Mapa Mental:** _[link será adicionado em breve]_
+-  ** Quiz:** _https://create.kahoot.it/share/trabalho-arquitetura/a8040a85-0275-445f-b43a-229b15878810 _
 
 ---
 
