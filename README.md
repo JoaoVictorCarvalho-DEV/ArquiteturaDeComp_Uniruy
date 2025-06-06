@@ -8,7 +8,7 @@ Trabalho desenvolvido para a disciplina **Arquitetura de Computadores**, ministr
 - Guilherme Miguel
 - João Víctor Miranda Carvalho - Desenvolvedor do Repositório
 - Luiz Fernando Ferreira Barbosa
-- Vitor ...
+- Vitor Félix Ribeiro
  
 
 ## 🏢 Instituição Atendida
@@ -31,8 +31,7 @@ Realizar uma **consultoria técnica** com foco na **sugestão de melhorias para 
 
 ## 🔗 Recursos Complementares
 
-- 🎧 **Podcast:** _[link será adicionado em breve]_  
-- 🧠 **Mapa Mental:** _[link será adicionado em breve]_
+- 🎧 **Podcast:** https://on.soundcloud.com/|lBfsQQsYRwNqMclN
 - 💡 **Quiz:** https://create.kahoot.it/share/trabalho-arquitetura/a8040a85-0275-445f-b43a-229b15878810
 
 ---
